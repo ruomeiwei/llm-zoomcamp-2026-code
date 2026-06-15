@@ -1,5 +1,3 @@
-from operator import index
-
 
 INSTRUCTIONS = """
 Your task is to answer questions from the course participants
